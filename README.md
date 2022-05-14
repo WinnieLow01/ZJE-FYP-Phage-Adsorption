@@ -1,4 +1,4 @@
-# ZJE Final Year Project: Computational Modelling of Bacteriophage Adsorption
+# Final Year Project: Computational Modelling of Bacteriophage Adsorption
 
 Supervisors: Dr. Sebastian Leptihn; Dr. Melanie Stefan
 
